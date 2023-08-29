@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?><database>
+    <element db_object_id="207732c897453110e884f3f6f053af82" label="Action" max_length="40" name="x_365350_ten_weeks_action" type="collection">
+        <element default="javascript:gs.now()" dynamic_default_value="fb7553e85f220100a9ad2572f2b477b4" label="Date" mandatory="true" max_length="40" name="date" type="glide_date" use_dynamic_default="true"/>
+        <element label="Goal" mandatory="true" max_length="32" name="goal" reference="x_365350_ten_weeks_goal" type="reference"/>
+        <element display="true" label="Short description" mandatory="true" max_length="140" name="short_description" type="string"/>
+        <index name="index">
+            <element name="goal"/>
+        </index>
+    </element>
+</database>

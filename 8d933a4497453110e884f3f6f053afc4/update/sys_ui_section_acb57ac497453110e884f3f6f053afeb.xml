@@ -1,0 +1,68 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update>
+    <sys_ui_section caption="" section_id="acb57ac497453110e884f3f6f053afeb" sys_domain="global" table="x_365350_ten_weeks_goal" version="3" view="">
+        <sys_ui_annotation action="INSERT_OR_UPDATE">
+            <is_plain_text>true</is_plain_text>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2023-08-29 14:39:25</sys_created_on>
+            <sys_id>1427ba8897453110e884f3f6f053af59</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2023-08-29 14:39:25</sys_updated_on>
+            <text>Choose actions over outcomes</text>
+            <type display_value="Text">863e446c0fd30000b12e6903cfe012ce</type>
+        </sys_ui_annotation>
+        <sys_ui_element action="INSERT_OR_UPDATE">
+            <element>name</element>
+            <position>0</position>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2023-08-29 14:39:26</sys_created_on>
+            <sys_id>d427ba8897453110e884f3f6f053af5e</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_ui_formatter/>
+            <sys_ui_section caption="NULL" display_value="" name="x_365350_ten_weeks_goal" sys_domain="global" view="Default view">acb57ac497453110e884f3f6f053afeb</sys_ui_section>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2023-08-29 14:39:26</sys_updated_on>
+            <sys_user/>
+            <type/>
+        </sys_ui_element>
+        <sys_ui_element action="INSERT_OR_UPDATE">
+            <element>1427ba8897453110e884f3f6f053af59</element>
+            <position>1</position>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2023-08-29 14:39:26</sys_created_on>
+            <sys_id>dc27ba8897453110e884f3f6f053af5e</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_ui_formatter/>
+            <sys_ui_section caption="NULL" display_value="" name="x_365350_ten_weeks_goal" sys_domain="global" view="Default view">acb57ac497453110e884f3f6f053afeb</sys_ui_section>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2023-08-29 14:39:26</sys_updated_on>
+            <sys_user/>
+            <type>annotation</type>
+        </sys_ui_element>
+        <sys_ui_section action="INSERT_OR_UPDATE">
+            <caption/>
+            <header>false</header>
+            <name>x_365350_ten_weeks_goal</name>
+            <roles/>
+            <sys_class_name>sys_ui_section</sys_class_name>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2023-08-29 14:33:09</sys_created_on>
+            <sys_domain>global</sys_domain>
+            <sys_domain_path>/</sys_domain_path>
+            <sys_id>acb57ac497453110e884f3f6f053afeb</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_name>x_365350_ten_weeks_goal</sys_name>
+            <sys_overrides/>
+            <sys_package display_value="Ten weeks" source="x_365350_ten_weeks">8d933a4497453110e884f3f6f053afc4</sys_package>
+            <sys_policy/>
+            <sys_scope display_value="Ten weeks">8d933a4497453110e884f3f6f053afc4</sys_scope>
+            <sys_update_name>sys_ui_section_acb57ac497453110e884f3f6f053afeb</sys_update_name>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2023-08-29 14:33:09</sys_updated_on>
+            <sys_user/>
+            <title>true</title>
+            <view display_value="Default view" name="NULL">Default view</view>
+            <view_name/>
+        </sys_ui_section>
+    </sys_ui_section>
+</record_update>

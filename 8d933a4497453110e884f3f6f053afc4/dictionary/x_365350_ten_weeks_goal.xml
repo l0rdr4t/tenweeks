@@ -1,0 +1,5 @@
+<?xml version="1.0" encoding="UTF-8"?><database>
+    <element db_object_id="ccb5f60897453110e884f3f6f053afc2" label="Goal" max_length="40" name="x_365350_ten_weeks_goal" type="collection">
+        <element display="true" label="Name" mandatory="true" max_length="40" name="name" type="string"/>
+    </element>
+</database>
